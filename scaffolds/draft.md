@@ -1,4 +1,5 @@
 ---
+# prettier-ignore
 title: {{ title }}
-tags:
+category: 草稿
 ---
