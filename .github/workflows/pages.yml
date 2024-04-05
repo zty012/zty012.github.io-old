@@ -27,7 +27,9 @@ jobs:
           restore-keys: |
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
-        run: pnpm install
+        run: |
+          npm install -g pnpm
+          pnpm install
       - name: Build
         run: pnpm run build
       - name: Upload Pages artifact
