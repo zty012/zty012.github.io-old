@@ -1,7 +1,6 @@
 ---
 title: Telegram删除全部归档对话
 date: 2024-04-05 20:34:10
-category: Telegram
 ---
 
 打开 [网页版 Telegram](https://web.telegram.org/a)，打开已归档对话，F12 控制台运行下面的代码
