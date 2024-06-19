@@ -1,7 +1,6 @@
 ---
 title: Vim学习笔记
 date: 2024-05-19 16:06:21
-category: Vim
 ---
 
 进入vim不用说了
